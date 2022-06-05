@@ -1,0 +1,40 @@
+h1{
+	text-align: center;
+	border: solid;
+	padding: 50px;
+	background-color: #A91B0D;
+	color: white;
+}
+body{
+	background-color:lightcoral ;
+}
+.two{
+	float: left;
+	margin-left: 40px;
+	margin-right: 40px;
+	padding: 30px;
+}
+.three{
+	padding: 30px;
+	padding-right: 40px;
+	float: right;
+
+}
+#result{
+	
+	text-align: center;
+	border: groove;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	background-color:#A91B0D ;
+	color: white;
+
+}
+h3{
+	border: solid ;
+	border-radius: 20px;
+	text-align: center;
+	background-color:#A91B0D ;
+	color: white;
+}
